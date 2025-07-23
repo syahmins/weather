@@ -1,8 +1,7 @@
 # Open-Meteo Wind Data Visualization
-Introduction
 This repository contains a Python project designed to visualize historical weather data for a specific location. By leveraging the Open-Meteo API, the script fetches daily weather metrics - including temperature and wind conditions - and presents them in clear, insightful graphs. This tool is perfect for anyone who wants to quickly analyze recent weather patterns without complex setup.
 
-## Features
+#### Features
 - API Integration: Automatically retrieves historical daily weather data, such as temperature, wind speed, and wind gusts, for the last 14 days from the free Open-Meteo API.
 - Data Processing: Utilizes the pandas library to structure the raw API data into a clean, easy-to-use DataFrame for analysis.
 - Comprehensive Visualization: Generates two distinct and professional-looking graphs using matplotlib:
